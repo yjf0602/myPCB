@@ -1,6 +1,6 @@
 ## usb_uart_cp2102 
 
-Kicad project.
+Kicad 5.1 project.
 
 ### lyaout
 
